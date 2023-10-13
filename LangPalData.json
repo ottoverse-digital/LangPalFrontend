@@ -1,0 +1,96 @@
+{
+    "LearnThroughPlay": [
+        {
+            "id": 1000,
+            "title": "Unscramble",
+            "content": " - Rearrange jumbled words against the clock."
+        },
+        {
+            "id": 1001,
+            "title": "Match Madness",
+            "content": " - Connect equivalent vocabulary terms."
+        },
+        {
+            "id": 1002,
+            "title": "Fill It In",
+            "content": " - Choose the right word to complete sentences."
+        },
+        {
+            "id": 1003,
+            "title": "True or False",
+            "content": " - Quiz yourself on lesson knowledge."
+        }
+    ],
+    "AppDemo": [
+        {
+            "id": 1000,
+            "title": "Compete with your friends",
+            "content": "A leaderboard to compare friendly progress with others.",
+            "imgUrl": "/StoreDemo/iPhone.png"
+        },
+        {
+            "id": 1001,
+            "title": "Track your success",
+            "content": "Statistics on vocabulary learned and games played.",
+            "imgUrl": "/StoreDemo/iPhone14.png"
+        },
+        {
+            "id": 1002,
+            "title": "Exciting new activities",
+            "content": "Fun ways to learn new words and vocabularies everyday",
+            "imgUrl": "/StoreDemo/iPhone14Pro.png"
+        }
+    ],
+    "WaitListBenefits" : [
+        {
+            "id": 1000,
+            "content": "Early access before our public launch"
+        },
+        {
+            "id": 1001,
+            "content": "Exclusive discounts and promo offers"
+        },
+        {
+            "id": 1002,
+            "content": "Input to help shape LangPal's development"
+        },
+        {
+            "id": 1003,
+            "content": "Surprise rewards for early adopters!"
+        }
+    ],
+    "TeamMembers1": [
+        {
+            "id": 1000,
+            "name": "Ottobong Christopher",
+            "role": "Founder",
+            "imgUrl": "/team/member1.png"
+        },
+        {
+            "id": 1001,
+            "name": "Faruk Amoo",
+            "role": "CTO, Software Engineer",
+            "imgUrl": "/team/member2.png"
+        },
+        {
+            "id": 1002,
+            "name": "Janefrances Ayogu",
+            "role": "Product Designer, UX Researcher",
+            "imgUrl": "/team/member3.png"
+        }
+    ],
+    "TeamMembers2": [
+        {
+            "id": 1003,
+            "name": "Favour Anajemba",
+            "role": "Software Engineer",
+            "imgUrl": "/team/member4.png"
+        },
+        {
+            "id": 1004,
+            "name": "Abdulhakeem Hamad",
+            "role": "Software Engineer",
+            "imgUrl": "/team/member5.png"
+        }
+    ]
+}

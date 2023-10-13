@@ -1,0 +1,21 @@
+{
+  "name": "langpal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3700",
+    "build": "next build",
+    "start": "znext start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.5.2",
+    "next": "13.5.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.11.0",
+    "react-router-dom": "^6.16.0",
+    "styled-components": "^6.0.8"
+  }
+}

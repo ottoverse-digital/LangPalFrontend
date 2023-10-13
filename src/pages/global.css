@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Capriola&display=swap');
+* {
+  margin: 0;
+  border: 0;
+  outline: none;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+}
+body{
+  /* background-color: peru; */
+  background-color: var(--primaryBg);
+  color: var(--dark);
+  accent-color: var(--darkFun);
+}
+
+html, textarea, button{
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+h1{
+  font-family: 'Capriola', sans-serif;
+}
+
+ul{
+  padding: 0;
+}
+
+::selection{
+  background-color: var(--amber);
+  color: var(--plain);
+}
+
+:root {
+  --primaryBg: #f8f8f8;
+  --primary: #F9C710;
+  --lightPrimary: #FEF4CF;
+  --secondaryFun: #E1B200;
+  --lightFun: #FDE99F;
+  --amber: #614D02;
+  --coolAmber: #E1B200;
+  --neutral: #161513;
+  --plain: #ffffff;
+  --outline: #EEEEEC;
+  --gray: #5F5C56;  
+  --secondary: #E96868;
+  --lightSecondary: #FCEDED;
+  --success: #1E7411;
+  --blackboard: #40403B;
+  --lightSuccess: #EFFCED;
+  --stroke: #C9C7C1;
+  --darkSuccess: #0c4d02;
+  --leafy: #1D450C;
+  
+  --tertiary: #e1dcc9;
+  --gold: #A39037;
+  --darkRed: #992414;
+  --lightRed: #E57C23;
+  --font: #696e77;
+  --lightPlain: #F8F1F1;
+  --fontDark: #333333;
+  --disabled: #fcefe0;
+  --disabledSecondary: #87aab1;
+  --darkDisabled: #f5c990;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--plain);
+  border-radius: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--amber);
+  border-radius: 14px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--secondaryFun);
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
